@@ -24,7 +24,7 @@
         "league/flysystem": "^1.0",
         "mpociot/documentarian": "dev-master",
         "mpociot/reflection-docblock": "^1.0.1",
-        "nunomaduro/collision": "^5.0",
+        "nunomaduro/collision": ">=5.0",
         "ramsey/uuid": "^4.3.1",
         "symfony/var-exporter": "^v6.0.0"
     },
